@@ -4,6 +4,6 @@ Pandas is a powerful, open-source data analysis and manipulation library for Pyt
 **Key Features**
 **DataFrame and Series:** Easy-to-use data structures for handling tabular and time-series data.
 **Data Manipulation:** Tools for filtering, aggregating, merging, and reshaping data.
-**Time Series Support: **Built-in functionality for working with date and time data.
+**Time Series Support:** Built-in functionality for working with date and time data.
 **Data Visualization:** Seamless integration with libraries like Matplotlib and Seaborn for plotting and visual analysis.
 Get started with Pandas to unlock the full potential of your data!
